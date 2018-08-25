@@ -4,7 +4,7 @@
 # __________________________________________________________________________
 import math
 
-from aima.utils import clip
+from utils import clip
 
 orientations = [(1, 0), (0, 1), (-1, 0), (0, -1)]
 
